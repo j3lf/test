@@ -1,0 +1,1 @@
+https://xxsibxx.github.io/ruffleembedsetup112/ruffle/ruffle.js
